@@ -23,7 +23,7 @@
 <h3>🌱 𝑃𝑟𝑜𝑏𝑙𝑒𝑚 𝑆𝑜𝑙𝑣𝑒</h3>
 <div float="left">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haeun4345" alt="Solved.ac Profile"  width="300"/>
-  <img src="http://mazandi.herokuapp.com/api?handle=haeun4345&theme=warm" alt="mazandi profile" width="300"/>
+<!--   <img src="http://mazandi.herokuapp.com/api?handle=haeun4345&theme=warm" alt="mazandi profile" width="300"/> -->
 </div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" width="100"/>
 </p>
