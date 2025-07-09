@@ -35,9 +35,9 @@
   <p>
   <h3>📊 𝐺𝑖𝑡 𝑆𝑡𝑎𝑡𝑠</h3>
   <div>
-  <img height=175 src="https://github-readme-stats-sable-nine-60.vercel.app/api?username=haeun320&text_bold=false&count_private=true&include_all_commits=true&show_icons=true&hide=stars" alt="Anurag's GitHub stats">
+  <img height=150 src="https://github-readme-stats-sable-nine-60.vercel.app/api?username=haeun320&text_bold=false&count_private=true&include_all_commits=true&show_icons=true&hide=stars" alt="Anurag's GitHub stats">
 <!--   <img height=150 src="https://github-readme-stats-sable-nine-60.vercel.app/api/top-langs/?username=haeun320&layout=compact&include_all_commits=true&exclude_repo=2024_MachineLearning,MovieReservation" alt="Top Langs"> -->
-  <img height=175 src="https://github.com/haeun320/github-stats-transparent/blob/output/generated/languages.svg"
+  <img height=150 src="https://github.com/haeun320/github-stats-transparent/blob/output/generated/languages.svg"
   </div>
   </p>
 
