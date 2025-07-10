@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:c6acf6,100:E6B9F7&width=1500&height=200&section=header&text=⋆⭒˚｡⋆%20☾%20⋆⭒°｡⋆%20%20%20𝐻𝐴𝐸𝑈𝑁'𝑠%20𝐺𝑖𝑡ℎ𝑢𝑏%20%20%20⋆⭒˚｡⋆%20☾%20⋆⭒°｡⋆&fontSize=40&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:c6acf6,100:E6B9F7&width=1500&height=150&section=header&text=⋆⭒˚｡⋆%20☾%20⋆⭒°｡⋆%20%20%20𝐻𝐴𝐸𝑈𝑁'𝑠%20𝐺𝑖𝑡ℎ𝑢𝑏%20%20%20⋆⭒˚｡⋆%20☾%20⋆⭒°｡⋆&fontSize=30&fontColor=ffffff&fontAlignY=30)
 <div>
   <div>
     <h3>🏫 𝐸𝑑𝑢𝑐𝑎𝑡𝑖𝑜𝑛</h3>
@@ -14,7 +14,9 @@
   
   <p>
   <h3>💻 𝑇𝑒𝑐ℎ 𝑆𝑡𝑎𝑐𝑘</h3>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,react,mysql,postgres" alt="My Skills" width="350" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,cpp,windows,postgres,js,html,react,tailwind,&perline=20"/>
+  </a>
   </p>
   
   <br/>
