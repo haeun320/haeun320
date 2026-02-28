@@ -4,18 +4,25 @@
     <h3>🏫 𝐸𝑑𝑢𝑐𝑎𝑡𝑖𝑜𝑛</h3>
     𝑺𝒆𝒋𝒐𝒏𝒈 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚, 𝑆𝑒𝑜𝑢𝑙, 𝑆𝑜𝑢𝑡ℎ 𝐾𝑜𝑟𝑒𝑎
     <ul>
-      <li>𝑀𝑎𝑟. <i>𝟸𝟶𝟸𝟸</i> - 𝐹𝑒𝑏. <i>𝟸𝟶𝟸𝟼</i> (𝐸𝑥𝑝𝑒𝑐𝑡𝑒𝑑 𝑔𝑟𝑎𝑑𝑢𝑎𝑡𝑖𝑜𝑛)</li>
-      <li>𝐵𝑎𝑐ℎ𝑒𝑙𝑜𝑟 𝑜𝑓 𝑆𝑐𝑖𝑒𝑛𝑐𝑒</li>
+      <li>𝑀𝑎𝑟. 𝟸𝟶𝟸𝟸 - 𝐹𝑒𝑏. 𝟸𝟶𝟸𝟼</li>
       <li>𝐷𝑜𝑢𝑏𝑙𝑒 𝑚𝑎𝑗𝑜𝑟 𝑖𝑛 <mark>𝐼𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑡 𝑀𝑒𝑐ℎ𝑎𝑡𝑟𝑜𝑛𝑖𝑐𝑠 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔</mark> 𝑎𝑛𝑑 <mark>𝐶𝑜𝑚𝑝𝑢𝑡𝑒𝑟 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔</mark></li>
     </ul>
   </div>
+
+  <br/>
+
+  <h3>🏃‍♀️‍➡️ 𝐸𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑒</h3>
+  <ul>
+    <li>[𝐽𝑎𝑛. <i>𝟸𝟶𝟸𝟼</i> - 𝑃𝑟𝑒𝑠𝑒𝑛𝑡] <a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp">𝑆𝑆𝐴𝐹𝑌</a> 𝟷𝟻𝑡ℎ 𝐽𝑎𝑣𝑎 𝑡𝑟𝑎𝑐𝑘</li>
+    <li>[𝑆𝑒𝑝. 𝟸𝟶𝟸𝟹 - 𝐷𝑒𝑐. 𝟸𝟶𝟸𝟻] 𝑅𝑎𝑦𝑤𝑎𝑡𝑡 𝑆𝑜𝑓𝑡𝑤𝑎𝑟𝑒 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟 𝐼𝑛𝑡𝑒𝑟𝑛</li>
+  </ul>
 
   <br/>
   
   <p>
   <h3>💻 𝑇𝑒𝑐ℎ 𝑆𝑡𝑎𝑐𝑘</h3>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,cpp,windows,postgres,js,html,react,tailwind,&perline=20"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,cpp,windows,postgres,java,js,react,tailwind&perline=20"/>
   </a>
   </p>
   
@@ -27,8 +34,7 @@
     <a href="https://solved.ac/profile/haeun4345">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haeun4345" alt="Solved.ac Profile"  width="300"/>
     </a>
-    
-  <!--   <img src="http://mazandi.herokuapp.com/api?handle=haeun4345&theme=warm" alt="mazandi profile" width="300"/> -->
+  <img src="http://mazandi.herokuapp.com/api?handle=haeun4345&theme=warm" alt="mazandi profile" width="300"/>
   </div>
   </p>
 
