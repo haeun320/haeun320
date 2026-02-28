@@ -13,8 +13,8 @@
 
   <h3>🏃‍♀️‍➡️ 𝐸𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑒</h3>
   <ul>
-    <li>[𝐽𝑎𝑛. 𝟸𝟶𝟸𝟼 - 𝑃𝑟𝑒𝑠𝑒𝑛𝑡] <a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp">𝑆𝑆𝐴𝐹𝑌</a> 𝟷𝟻𝑡ℎ 𝐽𝑎𝑣𝑎 𝑡𝑟𝑎𝑐𝑘</li>
-    <li>[𝑆𝑒𝑝. 𝟸𝟶𝟸𝟹 - 𝐷𝑒𝑐. 𝟸𝟶𝟸𝟻] 𝑅𝑎𝑦𝑤𝑎𝑡𝑡 𝑆𝑜𝑓𝑡𝑤𝑎𝑟𝑒 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟 𝐼𝑛𝑡𝑒𝑟𝑛</li>
+    <li><a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp">𝑆𝑆𝐴𝐹𝑌</a> 𝟷𝟻𝑡ℎ 𝐽𝑎𝑣𝑎 𝑡𝑟𝑎𝑐𝑘 <sub>[𝐽𝑎𝑛. 𝟸𝟶𝟸𝟼 - 𝑃𝑟𝑒𝑠𝑒𝑛𝑡]</sub></li>
+    <li><a href="https://raywatt.com">𝑅𝑎𝑦𝑤𝑎𝑡𝑡 𝐼𝑛𝑐.</a> 𝑆𝑜𝑓𝑡𝑤𝑎𝑟𝑒 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟 𝐼𝑛𝑡𝑒𝑟𝑛 <sub>[𝑆𝑒𝑝. 𝟸𝟶𝟸𝟹 - 𝐷𝑒𝑐. 𝟸𝟶𝟸𝟻]</sub></li>
   </ul>
 
   <br/>
