@@ -13,7 +13,7 @@
 
   <h3>🏃‍♀️‍➡️ 𝐸𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑒</h3>
   <ul>
-    <li><a href="https://www.pearlabyss.com">𝑃𝑒𝑎𝑟𝑙𝐴𝑏𝑦𝑠𝑠 𝐶𝑜𝑟𝑝.</a>𝐺𝑎𝑚𝑒 𝑃𝑙𝑎𝑡𝑓𝑜𝑟𝑚 𝑆𝑊 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟 𝐼𝑛𝑡𝑒𝑟𝑛 <sub>[𝑀𝑎𝑟. 𝟸𝟶𝟸𝟼 - 𝑀𝑎𝑦. 𝟸𝟶𝟸𝟼]</sub></li>
+    <li><a href="https://www.pearlabyss.com">𝑃𝑒𝑎𝑟𝑙𝐴𝑏𝑦𝑠𝑠 𝐶𝑜𝑟𝑝.</a> 𝐺𝑎𝑚𝑒 𝑃𝑙𝑎𝑡𝑓𝑜𝑟𝑚 𝑆𝑊 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟 𝐼𝑛𝑡𝑒𝑟𝑛 <sub>[𝑀𝑎𝑟. 𝟸𝟶𝟸𝟼 - 𝑀𝑎𝑦. 𝟸𝟶𝟸𝟼]</sub></li>
     <li><a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp">𝑆𝑆𝐴𝐹𝑌</a> 𝟷𝟻𝑡ℎ 𝐽𝑎𝑣𝑎 𝑡𝑟𝑎𝑐𝑘 <sub>[𝐽𝑎𝑛. 𝟸𝟶𝟸𝟼 - 𝑀𝑎𝑟. 𝟸𝟶𝟸𝟼]</sub></li>
     <li><a href="https://raywatt.com">𝑅𝑎𝑦𝑤𝑎𝑡𝑡 𝐼𝑛𝑐.</a> 𝑆𝑜𝑓𝑡𝑤𝑎𝑟𝑒 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟 𝐼𝑛𝑡𝑒𝑟𝑛 <sub>[𝑆𝑒𝑝. 𝟸𝟶𝟸𝟹 - 𝐷𝑒𝑐. 𝟸𝟶𝟸𝟻]</sub></li>
   </ul>
