@@ -8,7 +8,7 @@
 <div>
   <div>
     <h3>🏫 Education</h3>
-    Sejong University, Seoul, South Korea South Korea
+    Sejong University, Seoul, South Korea
     <ul>
       <li>Mar. 2022 - Feb. 2026</li>
       <li>Double major in <mark>Intelligent Mechatronics Engineering</mark> and <mark>Computer Engineering</mark></li>
