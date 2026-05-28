@@ -35,7 +35,7 @@
     <a href="https://solved.ac/profile/haeun4345">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haeun4345" alt="Solved.ac Profile"  width="300"/>
     </a>
-  <img src="http://mazandi.herokuapp.com/api?handle=haeun4345&theme=warm" alt="mazandi profile" width="300"/>
+  <!-- <img src="http://mazandi.herokuapp.com/api?handle=haeun4345&theme=warm" alt="mazandi profile" width="300"/> -->
   </div>
   </p>
 
