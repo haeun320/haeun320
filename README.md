@@ -19,6 +19,7 @@
 
   <h3>🏃‍♀️‍➡️ Experience</h3>
   <ul>
+    <li><a href="https://www.pearlabyss.com">PearlAbyss Corp.</a> <sub>[Jun. 2026 - Present]</sub> Game Platform SW Engineer  (C#, C++, Avalonia)</li>
     <li><a href="https://www.pearlabyss.com">PearlAbyss Corp.</a> <sub>[Mar. 2026 - May. 2026]</sub> Game Platform SW Engineer Intern (C#, C++, Avalonia)</li>
     <li><a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp">SSAFY</a> <sub>[Jan. 2026 - Mar. 2026]</sub> 15th Java track Trainee</li>
     <li><a href="https://raywatt.com">Raywatt Inc.</a> <sub>[Sep. 2023 - Dec. 2025]</sub> Software Engineer Intern (C#, C++, WPF)</li>
