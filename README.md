@@ -36,7 +36,7 @@
   
   <br/>
   
-  <div>
+  <!--<div>
     <h3>🌱 Problem Solving</h3>
     <a href="https://solved.ac/profile/haeun4345">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haeun4345" alt="Solved.ac Profile" width="300"/>
@@ -48,9 +48,9 @@
   <div>
     <h3>📊 Git Stats</h3>
     <img height="150" src="https://github-readme-stats-sable-nine-60.vercel.app/api?username=haeun320&text_bold=false&count_private=true&include_all_commits=true&show_icons=true&hide=stars" alt="GitHub stats">
-    <img height=150 src="https://github.com/haeun320/github-stats-transparent/blob/output/generated/languages.svg"
+    ><img height=150 src="https://github.com/haeun320/github-stats-transparent/blob/output/generated/languages.svg"
 
-  </div>
+  </div>-->
   </div>
 
 </div>
